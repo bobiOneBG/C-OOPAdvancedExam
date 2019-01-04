@@ -1,6 +1,6 @@
-# CSharp_OOPAdvancedExam_CosmoX_ProblemDescription
-
 OOP Advanced Exam – CosmosX
+Problem Description
+
 You’ve probably heard about Elon Musk and his company Tesla, the idea of which is to find innovative ways of providing energy. Elon got pretty popular around his company, and a certain person heard about it. Meet Nasko Usk and Stoyan Usk – the guys who got inspired by Elon Musk, and created the company CosmosX. 
 Overview
 CosmosX is a company, which provides energy through cryogen reactors. The company needs a software to maintain its system and that is why they hired Nasko and Stoyаn.They tried to write some software, but they couldn’t manage much, so they will just let you build the rest. You must however use their code, that’s one requirement. 
